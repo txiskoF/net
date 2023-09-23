@@ -1,0 +1,185 @@
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\obj\Debug\BIOTEK.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\BIOTEK.dll.config
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\BIOTEK.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\BIOTEK.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\csc.exe
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\csc.exe.config
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\csc.rsp
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\csi.exe
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\csi.exe.config
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\csi.rsp
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.AppContext.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Console.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.IO.Compression.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.Claims.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.ValueTuple.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\vbc.exe
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\vbc.exe.config
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\vbc.rsp
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\VBCSCompiler.exe
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\DAL.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\ENTIDADES.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\DAO.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\DAL.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\ENTIDADES.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\bin\DAO.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\obj\Debug\BIOTEK.csproj.CopyComplete
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\obj\Debug\BIOTEK.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\obj\Debug\BIOTEK.pdb
+D:\DIW\BIOTEK\BIOTEK\obj\Debug\BIOTEK.csprojAssemblyReference.cache
+D:\DIW\BIOTEK\BIOTEK\obj\Debug\BIOTEK.dll
+D:\DIW\BIOTEK\BIOTEK\obj\Debug\BIOTEK.pdb
+D:\DIW\BIOTEK\BIOTEK\bin\BIOTEK.dll.config
+D:\DIW\BIOTEK\BIOTEK\bin\BIOTEK.dll
+D:\DIW\BIOTEK\BIOTEK\bin\BIOTEK.pdb
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\csc.exe
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\csc.exe.config
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\csc.rsp
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\csi.exe
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\csi.exe.config
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\csi.rsp
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.AppContext.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Collections.Immutable.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Console.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.IO.Compression.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.IO.FileSystem.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.IO.Pipes.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Reflection.Metadata.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.AccessControl.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.Claims.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.ValueTuple.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Xml.XPath.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\vbc.exe
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\vbc.exe.config
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\vbc.rsp
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\VBCSCompiler.exe
+D:\DIW\BIOTEK\BIOTEK\bin\roslyn\VBCSCompiler.exe.config
+D:\DIW\BIOTEK\BIOTEK\bin\DAL.dll
+D:\DIW\BIOTEK\BIOTEK\bin\ENTIDADES.dll
+D:\DIW\BIOTEK\BIOTEK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DIW\BIOTEK\BIOTEK\bin\DAO.dll
+D:\DIW\BIOTEK\BIOTEK\bin\DAL.pdb
+D:\DIW\BIOTEK\BIOTEK\bin\ENTIDADES.pdb
+D:\DIW\BIOTEK\BIOTEK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DIW\BIOTEK\BIOTEK\bin\DAO.pdb
+D:\DIW\BIOTEK\BIOTEK\obj\Debug\BIOTEK.csproj.CopyComplete
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\BIOTEK\obj\Debug\BIOTEK.csproj.CoreCompileInputs.cache
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\BIOTEK.dll.config
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\BIOTEK.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\BIOTEK.pdb
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\csc.exe
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\csc.exe.config
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\csc.rsp
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\csi.exe
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\csi.exe.config
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\csi.rsp
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\Microsoft.CSharp.Core.targets
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\Microsoft.Managed.Core.targets
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.AppContext.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Collections.Immutable.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Console.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Diagnostics.StackTrace.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.IO.Compression.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.IO.FileSystem.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.IO.Pipes.AccessControl.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.IO.Pipes.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Reflection.Metadata.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Security.AccessControl.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Security.Claims.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Security.Principal.Windows.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Text.Encoding.CodePages.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.ValueTuple.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Xml.ReaderWriter.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Xml.XmlDocument.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Xml.XPath.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\System.Xml.XPath.XDocument.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\vbc.exe
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\vbc.exe.config
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\vbc.rsp
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\VBCSCompiler.exe
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\roslyn\VBCSCompiler.exe.config
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\DAL.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\ENTIDADES.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\DAO.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\DAL.pdb
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\ENTIDADES.pdb
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\bin\DAO.pdb
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\obj\Debug\BIOTEK.csprojAssemblyReference.cache
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\obj\Debug\BIOTEK.csproj.CoreCompileInputs.cache
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\obj\Debug\BIOTEK.csproj.CopyComplete
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\obj\Debug\BIOTEK.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\BIOTEK\obj\Debug\BIOTEK.pdb

@@ -1,0 +1,113 @@
+﻿body {
+    background: #b6b7bc;
+    font-size: .80em;
+    font-family: Helvetica, Verdana, sans-serif;
+    margin: 30px 0 0 0;
+    padding: 0px;
+    color: #696969;
+}
+
+.cabecera {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background: #8080ff;
+    /*background: #4a6661;*/
+    width: 100%;
+}
+
+    .cabecera h1 {
+        font-weight: 700;
+        margin: 0px;
+        padding: 0px 0px 0px 20px;
+        color: #f9f9f9;
+        border: none;
+        line-height: 2em;
+        font-size: 2em;
+    }
+
+
+.page {
+    width: 600px;
+    background-color: #fff;
+    /*  margin: 70px auto 0px auto;*/
+    text-align: left;
+    margin: auto;
+}
+/* LABELS y TEXTBOX*/
+
+.label {
+    display: block;
+    margin: .5em 0 0 0;
+}
+
+.label1 {
+    display: block;
+    margin: .5em 0 0 1.5em;
+}
+
+.btn {
+    display: block;
+    margin: 20px 0 0 0;
+    font-family: Helvetica, Verdana, sans-serif;
+    color: #696969;
+}
+
+.textos {
+    margin-left: 10px;
+}
+
+.main {
+    padding: 0px 12px;
+    margin: 12px 8px 8px 8px;
+    min-height: 420px;
+}
+
+
+.izquierda {
+    width: 200px;
+    float: left;
+}
+
+.medio {
+    width: 200px;
+    margin: 0;
+    float: left;
+    height: 203px;
+}
+
+.derecha {
+    width: 120px;
+    margin: 0; /*Este margen hace que no se encime el contenido en tu menúlateral, es     importante que pongas un pocos pixeles más que el ancho  de tu columna lateral*/
+    float: left;
+}
+
+.imagen {
+    margin-left: 20px;
+}
+/*.panel
+{
+    margin: 1em 0px;
+    padding: 1em;
+    border: 1px solid #ccc;
+    font-size: 1.1em;
+    font-weight: 600;
+    float:left;
+}*/
+
+.panel {
+    margin-top: 20px;
+}
+
+.btnimp {
+    font-family: Helvetica, Verdana, sans-serif;
+    color: #696969;
+    margin: 20px 0 0 150px;
+}
+
+.btnlista {
+    font-family: Helvetica, Verdana, sans-serif;
+    color: #696969;
+    margin-top: 10px;
+    margin-left: 10px;
+}

@@ -1,0 +1,9 @@
+C:\Users\marta\source\repos\DAO\bin\Debug\DAO.dll
+C:\Users\marta\source\repos\DAO\bin\Debug\DAO.pdb
+C:\Users\marta\source\repos\DAO\bin\Debug\ENTIDADES.dll
+C:\Users\marta\source\repos\DAO\bin\Debug\ENTIDADES.pdb
+C:\Users\marta\source\repos\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\marta\source\repos\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\marta\source\repos\DAO\obj\Debug\DAO.dll
+C:\Users\marta\source\repos\DAO\obj\Debug\DAO.pdb

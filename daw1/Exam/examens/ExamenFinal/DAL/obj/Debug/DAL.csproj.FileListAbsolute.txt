@@ -1,0 +1,10 @@
+D:\DIW\ExamenFinal\DAL\bin\Debug\DAL.dll
+D:\DIW\ExamenFinal\DAL\bin\Debug\DAL.pdb
+D:\DIW\ExamenFinal\DAL\bin\Debug\DAO.dll
+D:\DIW\ExamenFinal\DAL\bin\Debug\ENTIDADES.dll
+D:\DIW\ExamenFinal\DAL\bin\Debug\DAO.pdb
+D:\DIW\ExamenFinal\DAL\bin\Debug\ENTIDADES.pdb
+D:\DIW\ExamenFinal\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\DIW\ExamenFinal\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\DIW\ExamenFinal\DAL\obj\Debug\DAL.dll
+D:\DIW\ExamenFinal\DAL\obj\Debug\DAL.pdb

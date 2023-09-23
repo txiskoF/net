@@ -1,0 +1,6 @@
+C:\Users\marta\source\repos\ENTIDADES_GRID\bin\Debug\ENTIDADES_GRID.dll
+C:\Users\marta\source\repos\ENTIDADES_GRID\bin\Debug\ENTIDADES_GRID.pdb
+C:\Users\marta\source\repos\ENTIDADES_GRID\obj\Debug\ENTIDADES_GRID.csprojAssemblyReference.cache
+C:\Users\marta\source\repos\ENTIDADES_GRID\obj\Debug\ENTIDADES_GRID.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\ENTIDADES_GRID\obj\Debug\ENTIDADES_GRID.dll
+C:\Users\marta\source\repos\ENTIDADES_GRID\obj\Debug\ENTIDADES_GRID.pdb

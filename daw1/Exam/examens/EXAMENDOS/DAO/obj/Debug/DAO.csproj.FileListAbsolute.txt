@@ -1,0 +1,9 @@
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\bin\Debug\DAO.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\bin\Debug\DAO.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\bin\Debug\ENTIDADES.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\bin\Debug\ENTIDADES.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\obj\Debug\DAO.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\obj\Debug\DAO.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache

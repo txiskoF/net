@@ -1,0 +1,18 @@
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\DAO\bin\Debug\DAO.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\DAO\bin\Debug\DAO.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\DAO\bin\Debug\ENTIDADES.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\DAO\bin\Debug\ENTIDADES.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\DAO\obj\Debug\DAO.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\DAO\obj\Debug\DAO.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\BIOTEK\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\DAO\bin\Debug\DAO.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\DAO\bin\Debug\DAO.pdb
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\DAO\bin\Debug\ENTIDADES.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\DAO\bin\Debug\ENTIDADES.pdb
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\DAO\obj\Debug\DAO.csproj.CopyComplete
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\DAO\obj\Debug\DAO.dll
+V:\DocsNAS\DAW\02 Segundo\DIW\SegundaEvaluacion\EJERCICIOS\BIOTEK\DAO\obj\Debug\DAO.pdb

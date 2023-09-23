@@ -1,0 +1,6 @@
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\ENTIDADES\obj\Debug\ENTIDADES.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\ENTIDADES\obj\Debug\ENTIDADES.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache

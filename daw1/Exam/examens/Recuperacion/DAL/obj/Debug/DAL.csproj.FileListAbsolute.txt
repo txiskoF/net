@@ -1,0 +1,2 @@
+C:\Users\Francis\Documents\ZABALBURU\ApuntesDIW\SEGUNDA\Recuperacion\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\ZABALBURU\ApuntesDIW\SEGUNDA\Recuperacion\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

@@ -1,0 +1,108 @@
+﻿body 
+{
+    background: #b6b7bc;
+    font-size: .80em;
+    font-family: Helvetica,Verdana,sans-serif;
+    margin:0px;
+    padding:0px;
+    color:#696969;
+}
+
+.cabecera
+{
+    background: #4b6c9e;
+    width:100%;
+}
+
+.cabecera h1
+{
+    font-weight: 700;
+    margin:0px;
+    padding: 0px 0px 0px 5px;
+    color: #f9f9f9;
+    border:none;
+    line-height: 2em;
+    font-size: 2em;
+}
+.page
+{
+    width:300px;
+    height:310px;
+    background-color:#ffffff;
+    margin: 20px auto auto auto;
+    border :1px solid #496077;
+}
+
+.contenido
+{
+    padding : 10px 12px;
+    margin: 8px 8px 8px 8px;
+}
+
+
+
+.btn
+{
+    display:block;
+    font-family:Calibri;
+     margin-left:10px;
+    margin-bottom:5px;
+   width:85%;
+  height:40px;
+   
+}
+
+.btn2
+{
+    display:block;
+    font-family:Calibri;
+     margin-left:2px;
+     margin-top:-20px;
+    width:95%;
+  height:40px;
+   
+}
+.elemento
+{
+    margin-left:10px;
+    margin-bottom:5px;
+    
+  display:block;
+  color:#cccccc;
+  width:85%;
+  height:40px;
+ 
+  
+}
+
+.etiquetas
+{
+    margin-left:10px;
+    margin-bottom:10px;
+    padding-left:4px;
+    padding-top:5 px;
+   border: 1px solid #BDB2FF;
+  display:block;
+  color:#BDB2FF;
+  width:85%;
+  height:40px;
+ 
+  
+}
+
+.field1
+{
+   
+    width:85%;
+     height:206px;
+     }
+
+.field2
+{
+   
+    width:85%;
+     height:230px;
+     }
+  
+ 
+    

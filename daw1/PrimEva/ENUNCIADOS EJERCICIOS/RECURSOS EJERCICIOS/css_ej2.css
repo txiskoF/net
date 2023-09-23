@@ -1,0 +1,67 @@
+﻿body 
+{
+    background: #b6b7bc;
+    font-size: .80em;
+    font-family: Helvetica,Verdana,sans-serif;
+    margin:0px;
+    padding:0px;
+    color:#696969;
+}
+
+.cabecera
+{
+    background: #4b6c9e;
+    width:100%;
+}
+
+.cabecera h1
+{
+    font-weight: 700;
+    margin:0px;
+    padding: 0px 0px 0px 20px;
+    color: #f9f9f9;
+    border:none;
+    line-height: 2em;
+    font-size: 2em;
+}
+.page
+{
+    width:600px;
+    height:300px;
+    background-color:#ffffff;
+    margin: 80px auto auto auto;
+    border :1px solid #496077;
+}
+
+.contenido
+{
+    padding : 10px 12px;
+    margin: 8px 8px 8px 8px;
+}
+
+
+
+.btn
+{
+    display:block;
+    margin:1em 3.5em;
+    width:60%;
+    height:30px;
+    padding:auto auto auto 20px;
+}
+
+
+.field1
+{
+    float:left;
+    width:45%;
+}
+.field2
+{
+    float:right;
+     width:45%;
+}
+
+  
+ 
+    

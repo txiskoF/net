@@ -1,0 +1,61 @@
+﻿body   
+{
+    background: #24601A;
+    font-size: .80em;
+    font-family:  Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+
+.cabecera 
+{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background: #4b6c9e;
+    width: 100%;
+
+}
+
+.cabecera h1
+{
+    font-weight: 700;
+    margin: 0px;
+    padding:  0px 0px 0px 20px;
+    color: #f9f9f9;
+    border: none;
+    line-height: 2em;
+    font-size: 2em;
+}
+
+
+.page
+{
+    width: 1100px;
+    background-color: #fff;
+    margin: 40px auto 0px auto;
+   
+}
+
+
+
+.main
+{
+    padding: 0px 12px;
+    margin: 12px 8px 8px 8px;
+    min-height: 420px;
+}
+
+ .style1
+        {
+            width: 164px;
+        }
+        .style2
+        {
+            width: 996px;
+        }
+ .style3
+        {
+            width: 112px;
+        }

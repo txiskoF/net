@@ -1,0 +1,11 @@
+C:\Users\marta\source\repos\DAL\bin\Debug\DAL.dll
+C:\Users\marta\source\repos\DAL\bin\Debug\DAL.pdb
+C:\Users\marta\source\repos\DAL\bin\Debug\DAO.dll
+C:\Users\marta\source\repos\DAL\bin\Debug\ENTIDADES.dll
+C:\Users\marta\source\repos\DAL\bin\Debug\DAO.pdb
+C:\Users\marta\source\repos\DAL\bin\Debug\ENTIDADES.pdb
+C:\Users\marta\source\repos\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\marta\source\repos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\marta\source\repos\DAL\obj\Debug\DAL.dll
+C:\Users\marta\source\repos\DAL\obj\Debug\DAL.pdb

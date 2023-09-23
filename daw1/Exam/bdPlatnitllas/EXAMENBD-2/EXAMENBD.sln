@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "EXAMENBD", ".", "{CE3C9352-6EED-429C-AC79-42BD49EBE6B1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/EXAMENBD"
+		Debug.AspNetCompiler.PhysicalPath = "..\EXAMENBD\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\EXAMENBD\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/EXAMENBD"
+		Release.AspNetCompiler.PhysicalPath = "..\EXAMENBD\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\EXAMENBD\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61051"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE3C9352-6EED-429C-AC79-42BD49EBE6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3C9352-6EED-429C-AC79-42BD49EBE6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

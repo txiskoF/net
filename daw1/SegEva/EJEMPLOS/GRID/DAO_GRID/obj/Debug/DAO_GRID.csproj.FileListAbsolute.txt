@@ -1,0 +1,9 @@
+C:\Users\marta\source\repos\DAO_GRID\bin\Debug\DAO_GRID.dll
+C:\Users\marta\source\repos\DAO_GRID\bin\Debug\DAO_GRID.pdb
+C:\Users\marta\source\repos\DAO_GRID\bin\Debug\ENTIDADES_GRID.dll
+C:\Users\marta\source\repos\DAO_GRID\bin\Debug\ENTIDADES_GRID.pdb
+C:\Users\marta\source\repos\DAO_GRID\obj\Debug\DAO_GRID.csprojAssemblyReference.cache
+C:\Users\marta\source\repos\DAO_GRID\obj\Debug\DAO_GRID.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\DAO_GRID\obj\Debug\DAO_GRID.csproj.CopyComplete
+C:\Users\marta\source\repos\DAO_GRID\obj\Debug\DAO_GRID.dll
+C:\Users\marta\source\repos\DAO_GRID\obj\Debug\DAO_GRID.pdb

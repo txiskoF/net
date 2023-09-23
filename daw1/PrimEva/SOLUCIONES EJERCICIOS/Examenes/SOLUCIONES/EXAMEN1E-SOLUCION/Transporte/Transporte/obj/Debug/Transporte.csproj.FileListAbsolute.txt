@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\EXAMEN1E-RubenCastaños\Transporte\Transporte\bin\Debug\Transporte.dll
+C:\Users\alumno\Desktop\EXAMEN1E-RubenCastaños\Transporte\Transporte\bin\Debug\Transporte.pdb
+C:\Users\alumno\Desktop\EXAMEN1E-RubenCastaños\Transporte\Transporte\obj\Debug\Transporte.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\EXAMEN1E-RubenCastaños\Transporte\Transporte\obj\Debug\Transporte.dll
+C:\Users\alumno\Desktop\EXAMEN1E-RubenCastaños\Transporte\Transporte\obj\Debug\Transporte.pdb

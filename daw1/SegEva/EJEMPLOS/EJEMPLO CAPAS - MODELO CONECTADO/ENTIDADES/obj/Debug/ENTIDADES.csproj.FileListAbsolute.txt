@@ -1,0 +1,6 @@
+C:\Users\marta\source\repos\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\marta\source\repos\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\marta\source\repos\ENTIDADES\obj\Debug\ENTIDADES.csprojAssemblyReference.cache
+C:\Users\marta\source\repos\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\marta\source\repos\ENTIDADES\obj\Debug\ENTIDADES.pdb

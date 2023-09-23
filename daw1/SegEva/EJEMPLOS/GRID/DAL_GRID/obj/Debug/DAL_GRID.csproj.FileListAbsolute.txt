@@ -1,0 +1,11 @@
+C:\Users\marta\source\repos\DAL_GRID\bin\Debug\DAL_GRID.dll
+C:\Users\marta\source\repos\DAL_GRID\bin\Debug\DAL_GRID.pdb
+C:\Users\marta\source\repos\DAL_GRID\bin\Debug\DAO_GRID.dll
+C:\Users\marta\source\repos\DAL_GRID\bin\Debug\ENTIDADES_GRID.dll
+C:\Users\marta\source\repos\DAL_GRID\bin\Debug\DAO_GRID.pdb
+C:\Users\marta\source\repos\DAL_GRID\bin\Debug\ENTIDADES_GRID.pdb
+C:\Users\marta\source\repos\DAL_GRID\obj\Debug\DAL_GRID.csprojAssemblyReference.cache
+C:\Users\marta\source\repos\DAL_GRID\obj\Debug\DAL_GRID.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\DAL_GRID\obj\Debug\DAL_GRID.csproj.CopyComplete
+C:\Users\marta\source\repos\DAL_GRID\obj\Debug\DAL_GRID.dll
+C:\Users\marta\source\repos\DAL_GRID\obj\Debug\DAL_GRID.pdb

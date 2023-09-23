@@ -1,0 +1,8 @@
+E:\aFrancisco\DIW\Termometro\bin\Debug\netstandard2.0\Termometro.deps.json
+E:\aFrancisco\DIW\Termometro\bin\Debug\netstandard2.0\Termometro.dll
+E:\aFrancisco\DIW\Termometro\bin\Debug\netstandard2.0\Termometro.pdb
+E:\aFrancisco\DIW\Termometro\obj\Debug\netstandard2.0\Termometro.AssemblyInfoInputs.cache
+E:\aFrancisco\DIW\Termometro\obj\Debug\netstandard2.0\Termometro.AssemblyInfo.cs
+E:\aFrancisco\DIW\Termometro\obj\Debug\netstandard2.0\Termometro.csproj.CoreCompileInputs.cache
+E:\aFrancisco\DIW\Termometro\obj\Debug\netstandard2.0\Termometro.dll
+E:\aFrancisco\DIW\Termometro\obj\Debug\netstandard2.0\Termometro.pdb

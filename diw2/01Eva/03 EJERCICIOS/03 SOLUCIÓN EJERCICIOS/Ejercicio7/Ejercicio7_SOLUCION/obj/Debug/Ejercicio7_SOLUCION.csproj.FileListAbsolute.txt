@@ -1,0 +1,168 @@
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\Ejercicio7_SOLUCION.dll.config
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\Ejercicio7_SOLUCION.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\Ejercicio7_SOLUCION.pdb
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\csc.exe
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\csc.exe.config
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\csc.rsp
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\csi.exe
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\csi.exe.config
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\csi.rsp
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.AppContext.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Collections.Immutable.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Console.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.IO.Compression.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.IO.FileSystem.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.IO.Pipes.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Reflection.Metadata.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Security.AccessControl.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Claims.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.ValueTuple.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Xml.XPath.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\vbc.exe
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\vbc.exe.config
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\vbc.rsp
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\VBCSCompiler.exe
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\roslyn\VBCSCompiler.exe.config
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.csprojAssemblyReference.cache
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.csproj.CoreCompileInputs.cache
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.csproj.CopyComplete
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.dll
+D:\MARTA\EJEMPLOS DIW\Ejercicio7_SOLUCION\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.pdb
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\Ejercicio7_SOLUCION.dll.config
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\Ejercicio7_SOLUCION.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\Ejercicio7_SOLUCION.pdb
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\csc.exe
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\csc.exe.config
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\csc.rsp
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\csi.exe
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\csi.exe.config
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\csi.rsp
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.AppContext.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Collections.Immutable.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Console.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.IO.Compression.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.IO.FileSystem.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.IO.Pipes.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Reflection.Metadata.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.AccessControl.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Claims.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.ValueTuple.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Xml.XPath.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\vbc.exe
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\vbc.exe.config
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\vbc.rsp
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\VBCSCompiler.exe
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\VBCSCompiler.exe.config
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.csprojAssemblyReference.cache
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.csproj.CoreCompileInputs.cache
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.csproj.CopyComplete
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.dll
+D:\MARTA - DIW\Ejercicio7\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.pdb
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.csprojAssemblyReference.cache
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.csproj.CoreCompileInputs.cache
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.pdb
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\Ejercicio7_SOLUCION.dll.config
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\Ejercicio7_SOLUCION.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\Ejercicio7_SOLUCION.pdb
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\csc.exe
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\csc.exe.config
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\csc.rsp
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\csi.exe
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\csi.exe.config
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\csi.rsp
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.AppContext.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Collections.Immutable.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Console.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.IO.Compression.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.IO.FileSystem.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.IO.Pipes.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Reflection.Metadata.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.AccessControl.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Claims.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Security.Principal.Windows.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.ValueTuple.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Xml.XPath.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\vbc.exe
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\vbc.exe.config
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\vbc.rsp
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\VBCSCompiler.exe
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\roslyn\VBCSCompiler.exe.config
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio7\Ejercicio7_SOLUCION\obj\Debug\Ejercicio7_SOLUCION.csproj.CopyComplete

@@ -1,0 +1,11 @@
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\NEGOCIO\bin\Debug\NEGOCIO.dll
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\NEGOCIO\bin\Debug\NEGOCIO.pdb
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\NEGOCIO\bin\Debug\AccesoDatos.dll
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\NEGOCIO\bin\Debug\ENTITY.dll
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\NEGOCIO\bin\Debug\AccesoDatos.pdb
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\NEGOCIO\bin\Debug\ENTITY.pdb
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\NEGOCIO\obj\Debug\NEGOCIO.dll
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\NEGOCIO\obj\Debug\NEGOCIO.pdb

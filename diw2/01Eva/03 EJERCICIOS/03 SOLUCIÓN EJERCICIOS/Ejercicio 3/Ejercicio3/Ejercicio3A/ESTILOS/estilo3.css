@@ -1,0 +1,51 @@
+﻿body {
+    background: #b6b7bc;
+    font-size: .80em;
+    font-family: Digital-7;
+    margin: 100px auto auto auto;
+    padding: 0px;
+    color: #ffffff;
+}
+
+.encabezado {
+    background: #000000;
+    width: 100%;
+}
+
+    .encabezado h1 {
+        font-weight: 700;
+        margin: 0px;
+        padding: 0px 0px 0px 20px;
+        color: #f9f9f9;
+        border: none;
+        line-height: 2em;
+        font-size: 2em;
+    }
+
+.pagina {
+    width: 400px;
+    height: 300px;
+    background-color: #fff;
+    margin: 70px auto auto auto;
+    border: 1px solid #496077;
+}
+
+.cuerpo {
+    color: #000;
+    width: 100%;
+    height: 100%;
+    margin: auto auto auto 50px;
+}
+
+
+.elemento {
+    display: block;
+    font-family: Digital-7;
+    margin-top: 20px;
+}
+
+
+.elemento1 {
+    font-family: Digital-7;
+    margin: 20px auto auto 2.5px;
+}

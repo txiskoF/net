@@ -1,0 +1,5 @@
+D:\DIW\ExamenFinal\ENTIDADES\bin\Debug\ENTIDADES.dll
+D:\DIW\ExamenFinal\ENTIDADES\bin\Debug\ENTIDADES.pdb
+D:\DIW\ExamenFinal\ENTIDADES\obj\Debug\ENTIDADES.csprojAssemblyReference.cache
+D:\DIW\ExamenFinal\ENTIDADES\obj\Debug\ENTIDADES.dll
+D:\DIW\ExamenFinal\ENTIDADES\obj\Debug\ENTIDADES.pdb

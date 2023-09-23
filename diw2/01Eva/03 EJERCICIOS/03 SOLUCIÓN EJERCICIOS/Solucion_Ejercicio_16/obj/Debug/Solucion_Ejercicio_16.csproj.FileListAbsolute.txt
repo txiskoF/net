@@ -1,0 +1,118 @@
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\obj\Debug\Solucion_Ejercicio_16.csprojAssemblyReference.cache
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\obj\Debug\Solucion_Ejercicio_16.csproj.CoreCompileInputs.cache
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\Solucion_Ejercicio_16.dll.config
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\Solucion_Ejercicio_16.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\Solucion_Ejercicio_16.pdb
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\csc.exe
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\csc.exe.config
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\csc.rsp
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\csi.exe
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\csi.exe.config
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\csi.rsp
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\Microsoft.Managed.Core.targets
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.AppContext.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Collections.Immutable.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Console.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Globalization.Calendars.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.IO.Compression.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.IO.FileSystem.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Net.Http.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Net.Sockets.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Reflection.Metadata.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.ValueTuple.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Xml.XmlDocument.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Xml.XPath.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\vbc.exe
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\vbc.exe.config
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\vbc.rsp
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\VBCSCompiler.exe
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\roslyn\VBCSCompiler.exe.config
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\obj\Debug\Solucion_Ejercicio_16.csproj.CopyComplete
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\obj\Debug\Solucion_Ejercicio_16.dll
+C:\01. COLEGIO\2020-2021\03 MODULOS\01 DIW\Solucion_Ejercicio_16\obj\Debug\Solucion_Ejercicio_16.pdb
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\Solucion_Ejercicio_16.dll.config
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\Solucion_Ejercicio_16.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\Solucion_Ejercicio_16.pdb
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\csc.exe
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\csc.exe.config
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\csc.rsp
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\csi.exe
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\csi.exe.config
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\csi.rsp
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.AppContext.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Collections.Immutable.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Console.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Globalization.Calendars.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.IO.Compression.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.IO.FileSystem.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Net.Http.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Net.Sockets.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Reflection.Metadata.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.ValueTuple.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Xml.XPath.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\vbc.exe
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\vbc.exe.config
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\vbc.rsp
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\VBCSCompiler.exe
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\roslyn\VBCSCompiler.exe.config
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\obj\Debug\Solucion_Ejercicio_16.csprojAssemblyReference.cache
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\obj\Debug\Solucion_Ejercicio_16.csproj.CoreCompileInputs.cache
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\obj\Debug\Solucion_Ejercicio_16.csproj.CopyComplete
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\obj\Debug\Solucion_Ejercicio_16.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Solucion_Ejercicio_16\obj\Debug\Solucion_Ejercicio_16.pdb

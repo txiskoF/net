@@ -1,0 +1,6 @@
+C:\Users\Francis\Documents\ZABALBURU\2DIW\EcamenDOS\Obrero\Obrero\bin\Debug\Obrero.dll
+C:\Users\Francis\Documents\ZABALBURU\2DIW\EcamenDOS\Obrero\Obrero\bin\Debug\Obrero.pdb
+C:\Users\Francis\Documents\ZABALBURU\2DIW\EcamenDOS\Obrero\Obrero\obj\Debug\Obrero.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\ZABALBURU\2DIW\EcamenDOS\Obrero\Obrero\obj\Debug\Obrero.csproj.CoreCompileInputs.cache
+C:\Users\Francis\Documents\ZABALBURU\2DIW\EcamenDOS\Obrero\Obrero\obj\Debug\Obrero.dll
+C:\Users\Francis\Documents\ZABALBURU\2DIW\EcamenDOS\Obrero\Obrero\obj\Debug\Obrero.pdb

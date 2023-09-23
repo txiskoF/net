@@ -1,0 +1,16 @@
+D:\DIW\Calculos\Calculos\bin\Debug\Calculos.dll
+D:\DIW\Calculos\Calculos\bin\Debug\Calculos.pdb
+D:\DIW\Calculos\Calculos\obj\Debug\Calculos.csprojResolveAssemblyReference.cache
+D:\DIW\Calculos\Calculos\obj\Debug\Calculos.dll
+D:\DIW\Calculos\Calculos\obj\Debug\Calculos.pdb
+Z:\1ª EVALUACION\SOLUCIONES EJERCICIOS\Ejercicio 4\Calculos\Calculos\bin\Debug\Calculos.dll
+Z:\1ª EVALUACION\SOLUCIONES EJERCICIOS\Ejercicio 4\Calculos\Calculos\bin\Debug\Calculos.pdb
+Z:\1ª EVALUACION\SOLUCIONES EJERCICIOS\Ejercicio 4\Calculos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+Z:\1ª EVALUACION\SOLUCIONES EJERCICIOS\Ejercicio 4\Calculos\Calculos\obj\Debug\Calculos.dll
+Z:\1ª EVALUACION\SOLUCIONES EJERCICIOS\Ejercicio 4\Calculos\Calculos\obj\Debug\Calculos.pdb
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio 4\Ejercicio 4\Calculos\Calculos\bin\Debug\Calculos.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio 4\Ejercicio 4\Calculos\Calculos\bin\Debug\Calculos.pdb
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio 4\Ejercicio 4\Calculos\Calculos\obj\Debug\Calculos.csprojAssemblyReference.cache
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio 4\Ejercicio 4\Calculos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio 4\Ejercicio 4\Calculos\Calculos\obj\Debug\Calculos.dll
+E:\MARTA\EJERCICIOS\SOLUCIONES EJERCICIOS\Ejercicio 4\Ejercicio 4\Calculos\Calculos\obj\Debug\Calculos.pdb

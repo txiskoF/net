@@ -1,0 +1,23 @@
+C:\Users\Yenier\AppData\Local\Temporary Projects\CalculadoraBasesNumericas\bin\Debug\CalculadoraBasesNumericas.exe.config
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\bin\Debug\CalculadoraBasesNumericas.exe.config
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\bin\Debug\CalculadoraBasesNumericas.exe
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\bin\Debug\CalculadoraBasesNumericas.pdb
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\bin\Debug\CalculadoraBasesNumericas.xml
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.Form1.resources
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.Resources.resources
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.vbproj.GenerateResource.Cache
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.exe
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.xml
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.pdb
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\bin\Debug\CalculadoraBasesNumericas.exe.manifest
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\bin\Debug\CalculadoraBasesNumericas.application
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.exe.manifest
+C:\Users\Yenier\Documents\Visual Studio 2012\Projects\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.application
+C:\Users\Francis\Documents\ZABALBURU\2DIW\Ejemplos calculadodra\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.vbprojAssemblyReference.cache
+C:\Users\Francis\Documents\ZABALBURU\2DIW\Ejemplos calculadodra\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.Form1.resources
+C:\Users\Francis\Documents\ZABALBURU\2DIW\Ejemplos calculadodra\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.Resources.resources
+C:\Users\Francis\Documents\ZABALBURU\2DIW\Ejemplos calculadodra\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.vbproj.GenerateResource.cache
+C:\Users\Francis\Documents\ZABALBURU\2DIW\Ejemplos calculadodra\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.vbproj.CoreCompileInputs.cache
+C:\Users\Francis\Documents\ZABALBURU\2DIW\Ejemplos calculadodra\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.exe
+C:\Users\Francis\Documents\ZABALBURU\2DIW\Ejemplos calculadodra\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.xml
+C:\Users\Francis\Documents\ZABALBURU\2DIW\Ejemplos calculadodra\CalculadoraBasesNumericas\CalculadoraBasesNumericas\obj\Debug\CalculadoraBasesNumericas.pdb

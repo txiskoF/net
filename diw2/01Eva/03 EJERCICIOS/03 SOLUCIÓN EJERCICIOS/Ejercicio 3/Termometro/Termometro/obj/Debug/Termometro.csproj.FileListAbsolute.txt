@@ -1,0 +1,6 @@
+E:\MARTA\SOLUCIONES EJERCICIOS\Ejercicio 3\Termometro\Termometro\bin\Debug\Termometro.dll
+E:\MARTA\SOLUCIONES EJERCICIOS\Ejercicio 3\Termometro\Termometro\bin\Debug\Termometro.pdb
+E:\MARTA\SOLUCIONES EJERCICIOS\Ejercicio 3\Termometro\Termometro\obj\Debug\Termometro.csprojAssemblyReference.cache
+E:\MARTA\SOLUCIONES EJERCICIOS\Ejercicio 3\Termometro\Termometro\obj\Debug\Termometro.csproj.CoreCompileInputs.cache
+E:\MARTA\SOLUCIONES EJERCICIOS\Ejercicio 3\Termometro\Termometro\obj\Debug\Termometro.dll
+E:\MARTA\SOLUCIONES EJERCICIOS\Ejercicio 3\Termometro\Termometro\obj\Debug\Termometro.pdb

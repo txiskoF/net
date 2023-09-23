@@ -1,0 +1,26 @@
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\bin\Debug\DAO.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\bin\Debug\DAO.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\bin\Debug\ENTIDADES.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\bin\Debug\ENTIDADES.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\obj\Debug\DAO.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\DAO\obj\Debug\DAO.pdb
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\DAO\obj\Debug\DAO.dll
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\DAO\obj\Debug\DAO.pdb
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\DAO\bin\Debug\DAO.dll
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\DAO\bin\Debug\DAO.pdb
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\DAO\bin\Debug\ENTIDADES.dll
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\DAO\bin\Debug\ENTIDADES.pdb
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Francis\Documents\ZABALBURU\2DiwApuntes\paraexamen\Examen20\DAO\bin\Debug\DAO.dll
+C:\Users\Francis\Documents\ZABALBURU\2DiwApuntes\paraexamen\Examen20\DAO\bin\Debug\DAO.pdb
+C:\Users\Francis\Documents\ZABALBURU\2DiwApuntes\paraexamen\Examen20\DAO\bin\Debug\ENTIDADES.dll
+C:\Users\Francis\Documents\ZABALBURU\2DiwApuntes\paraexamen\Examen20\DAO\bin\Debug\ENTIDADES.pdb
+C:\Users\Francis\Documents\ZABALBURU\2DiwApuntes\paraexamen\Examen20\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\ZABALBURU\2DiwApuntes\paraexamen\Examen20\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Francis\Documents\ZABALBURU\2DiwApuntes\paraexamen\Examen20\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Francis\Documents\ZABALBURU\2DiwApuntes\paraexamen\Examen20\DAO\obj\Debug\DAO.dll
+C:\Users\Francis\Documents\ZABALBURU\2DiwApuntes\paraexamen\Examen20\DAO\obj\Debug\DAO.pdb

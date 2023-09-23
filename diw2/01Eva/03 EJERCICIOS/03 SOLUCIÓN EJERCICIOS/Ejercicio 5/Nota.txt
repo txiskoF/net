@@ -1,0 +1,6 @@
+El proyecto tiene 2 formularios:
+
+* Principal.aspx : El ejercicio está hecho con el evento Click
+* Principal_COMMAND: El ejercicio está hecho con el evento COMMAND
+
+Solamente está hecho el añadido en ejecución del botón 56% en el Principal_COMMAND. En el otro formulario sería igual.

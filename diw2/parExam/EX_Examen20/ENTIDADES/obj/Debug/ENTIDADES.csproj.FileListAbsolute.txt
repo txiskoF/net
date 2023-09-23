@@ -1,0 +1,11 @@
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\ENTIDADES\obj\Debug\ENTIDADES.pdb
+C:\Users\Francis\Documents\ZABALBURU\DIW\EXAMENDOS\ENTIDADES\obj\Debug\ENTIDADES.csprojAssemblyReference.cache
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\ENTIDADES\bin\Debug\ENTIDADES.dll
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\ENTIDADES\bin\Debug\ENTIDADES.pdb
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\ENTIDADES\obj\Debug\ENTIDADES.csprojAssemblyReference.cache
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\ENTIDADES\obj\Debug\ENTIDADES.dll
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\paraexamen\Examen20\ENTIDADES\obj\Debug\ENTIDADES.pdb

@@ -1,0 +1,109 @@
+﻿body   
+{
+    background: #b6b7bc;
+    font-size: .80em;
+    font-family:  Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+
+.cabecera 
+{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background: #4b6c9e;
+    width: 100%;
+
+}
+
+.cabecera h1
+{
+    font-weight: 700;
+    margin: 0px;
+    padding:  0px 0px 0px 20px;
+    color: #f9f9f9;
+    border: none;
+    line-height: 2em;
+    font-size: 2em;
+}
+
+
+.page
+{
+    width: 600px;
+    background-color: #fff;
+  /*  margin: 70px auto 0px auto;*/
+     text-align: left;
+
+margin: auto;
+   
+}
+/* LABELS y TEXTBOX*/
+
+.label {
+  display: block;
+  margin: .5em 0 0 0;
+}
+.labelIMG {
+  display: block;
+  margin: .5em 0 0 0;
+}
+.btn {
+  display: block;
+  margin: 1em 0 0 0;
+}
+
+
+.main
+{
+    padding: 0px 12px;
+    margin: 12px 8px 8px 8px;
+    min-height: 420px;
+   
+}
+
+
+.lateral{
+width: 200px;  /*Este será el ancho que tendrá tu columna*/
+
+float:left; /*Aqui determinas de lado quieres quede esta "columna" */
+}
+
+.medio
+{
+width: 200px;    
+margin:0; /*Este margen hace que no se encime el contenido en tu menúlateral, es     importante que pongas un pocos pixeles más que el ancho  de tu columna lateral*/
+background-color: #CCCCCC;
+float:left;
+
+}
+.derecha
+{
+width: 150px;
+margin:0; /*Este margen hace que no se encime el contenido en tu menúlateral, es     importante que pongas un pocos pixeles más que el ancho  de tu columna lateral*/
+background-color: #CCCCCC;
+float:left;
+
+}
+
+.imagen
+{
+    margin-left:30px;
+}
+panel
+{
+    margin: 1em 0px;
+    padding: 1em;
+    border: 1px solid #ccc;
+    font-size: 1.1em;
+    font-weight: 600;
+    float:left;
+}
+legend 
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+}

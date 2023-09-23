@@ -1,0 +1,6 @@
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\ENTITY\bin\Debug\ENTITY.dll
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\ENTITY\bin\Debug\ENTITY.pdb
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\ENTITY\obj\Debug\ENTITY.dll
+E:\aFrancisco\aDIW\SEGUNDA EVALUACIÓN\EJEMPLOS\EjemploBaseDatos\ENTITY\obj\Debug\ENTITY.pdb
